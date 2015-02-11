@@ -1,7 +1,4 @@
 test
 test2
-<<<<<<< HEAD
 test4
-=======
 test3
->>>>>>> 9640e01c6021b25b43f6d8c7f8e43b0892217bc6
